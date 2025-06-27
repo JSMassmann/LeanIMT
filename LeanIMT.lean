@@ -6,4 +6,4 @@ Bibliography:
 - Jen71 = Ronald Jensen, The Fine Structure of the Constructible Hierarchy
 -/
 
-import LeanIMT.RudFunc
+import LeanIMT.Rud
